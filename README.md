@@ -3,3 +3,4 @@
 # Build
 
 gcc -o main main.cpp => error: undefined reference to `doSomeThing'
+g++ -o main main.cpp => error: undefined reference to `doSomeThing'
